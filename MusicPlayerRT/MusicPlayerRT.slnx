@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MusicPlayerRT/MusicPlayerRT.vcxproj" Id="ee3c4829-5d72-450c-9686-aca247f10e06" />
+</Solution>

@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+  menu.cpp
+  timeSong.cpp
+  Generating code
+  Finished generating code
+  MusicPlayerRT.vcxproj -> C:\Users\Kolyan\Desktop\MusicPlayerRT.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
